@@ -12,7 +12,7 @@ export class ContactComponent implements OnInit {
     this.metafrenzyService.setOpenGraph({
       title:"This is Contact Us Page Title",
       description:"This is Contact us description",
-      image:"https://swadeshsoftwares.com/images/slider2.jpg"
+      image:"https://web7best.com/assets/snapshot/snap2.png"
   });
 
    }

@@ -13,13 +13,14 @@ export class HomeComponent implements OnInit {
     this.metafrenzyService.setOpenGraph({
       title:"WEB 7 BEST - find best and share best",
       description:"Find best content around the world from the best of best on latest news from India and the world. Headlines from Business, Technology, Bollywood, Cricket",
-      image:"https://swadeshsoftwares.com/images/slider2.jpg"
+      image:"https://web7best.com/assets/snapshot/snap3.png"
   });
 
   this.metafrenzyService.setOpenGraphForTwitter({
     title:"This is Home Page",
     description:"This is Home Page Description",
-    image:"https://swadeshsoftwares.com/images/slider2.jpg"
+	 image:"https://web7best.com/assets/snapshot/snap5.png"
+   
 });
 
 

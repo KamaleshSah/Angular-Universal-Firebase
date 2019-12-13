@@ -1,18 +1,18 @@
-<div align="center">
-  <h1 align="center">Angular Universal Firebase</h1>
+<div >
+  <h1 >Angular Universal Firebase</h1>
   
-  <p align="center">
+  <p >
     Check out the live <a href="https://angularuniversalproapps.firebaseapp.com/">demo</a>.
   </p>
  
-<h2 align="center">About Angular Universal</h2> 
+<h2 >About Angular Universal</h2> 
 <p> Angular Universal, a technology that renders Angular applications on the server</p>
 
-<h2 align="center">Angular Application vs Angular Universal Application</h2> 
+<h2 >Angular Application vs Angular Universal Application</h2> 
 <p> A normal Angular application executes in the browser, rendering pages in the DOM in response to user actions. Angular Universal executes on the server, generating static application pages that later get bootstrapped on the client. </p>
 
 
- <h2 align="center">How to Use</h2> 
+ <h2 >How to Use</h2> 
 
 <p>Git Clone or Download this repository</p>
 

@@ -2,7 +2,7 @@
   <h1 >Angular Universal Firebase</h1>
   
   <p >
-    Check out the live <a href="https://angularuniversalproapps.firebaseapp.com/">demo</a>.
+    Check out the live <a target="_blank" href="https://angularuniversalproapps.firebaseapp.com/">Demo</a>.
   </p>
  
 <h2 >About Angular Universal</h2> 
@@ -22,7 +22,7 @@
 
 <p>npm install</p>
 
-<b>Back to root folder, then test with firebase serve command</b>
+<b>Back to root folder</b>
 
 <p>ng build --prod</p>
 
